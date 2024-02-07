@@ -11,7 +11,7 @@ export const Project = () => {
         {
             title: "Task list",
             type: "Design and Development",
-            description: "A complete project built using Angular, Nodejs, MongoDB (NOT RESPONSIVE ONLY FOR STANDARD MONITOR SIZE (i didnt knew about it that time :P)",
+            description: "A complete project built using Angular, Nodejs, MongoDB (NOT RESPONSIVE :P)",
             imgUrl: notebook,
             gitUrl: 'https://github.com/CornFLexs/TImeLog.git',
             siteUrl: 'https://timedlog.netlify.app/',
