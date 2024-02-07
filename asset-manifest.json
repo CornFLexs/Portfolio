@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.a5461476.css",
+    "main.js": "/Portfolio/static/js/main.b9489a0c.js",
+    "static/js/592.6d7de513.chunk.js": "/Portfolio/static/js/592.6d7de513.chunk.js",
+    "static/media/video2.mp4": "/Portfolio/static/media/video2.8b473a6d625b373e7e05.mp4",
+    "static/media/my_image.jpg": "/Portfolio/static/media/my_image.cc840cf0ef466fb34437.jpg",
+    "static/media/Poppins-Regular.ttf": "/Portfolio/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/burp_suite_macos_bigsur_icon_190319.png": "/Portfolio/static/media/burp_suite_macos_bigsur_icon_190319.d8a32511b50f1d724783.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/physics.png": "/Portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/ux_1055666.png": "/Portfolio/static/media/ux_1055666.ffa3e0dd754dc923e50b.png",
+    "static/media/notebook.png": "/Portfolio/static/media/notebook.a3214e56cf8880e06451.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/typescript.png": "/Portfolio/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.a5461476.css.map": "/Portfolio/static/css/main.a5461476.css.map",
+    "main.b9489a0c.js.map": "/Portfolio/static/js/main.b9489a0c.js.map",
+    "592.6d7de513.chunk.js.map": "/Portfolio/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5461476.css",
+    "static/js/main.b9489a0c.js"
+  ]
+}
