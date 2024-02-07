@@ -21,7 +21,7 @@ export const Project = () => {
             type: "Design and Development",
             description: "A complete project built using React (WELL U ARE LITERALLY SCROLLING IT :) )",
             imgUrl: portfolio,
-            gitUrl: 'https://github.com/CornFLexs/TImeLog.git',
+            gitUrl: 'https://github.com/CornFLexs/Portfolio.git',
             siteUrl: '',
         }
     ];
