@@ -192,11 +192,13 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 10px;
   display: block;
   padding: 10px;
+  height: 200px; /* Adjust height as needed */
+  overflow-y: hidden; /* Add scrollbar if content overflows vertically */
 }
 
 .banner p{
   font-size: 20px;
-  margin-top: 90px;
+  margin-top: 40px;
   display: flex;
   align-items: center;
   padding: 10px;
@@ -210,6 +212,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-top: 20px;
   z-index: 2;
 }
+
+
 
 @keyframes updown {
   0%{
@@ -273,7 +277,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /*projectcard*/
 .project {
-  padding: 100px 0;
+  padding: 140px 0;
   position: relative;
   background-color: transparent;
 }

@@ -15,7 +15,7 @@ export const Banner =() => {
             </div>
             <Container>
                 <Row className="align-item-center">
-                    <Col xs={12} md={6} xl={7}>
+                    <Col xs={12} md={6} xl={7} className="banner-text-container">
                         <span className="tagline">Welcome to my Portfolio</span>
                         <h1>{" "}
                             <ReactTyped strings={[ "Hi I'm Dikshansh","I'm a Web Developer","I'm an Application Tester"]} typeSpeed={100} loop />
